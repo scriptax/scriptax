@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @scriptax
-- I’m interested in web developement on both sides of frontend and backend.
-- It's been a short while since I started to learn programming. So basically I’m a rookie right now, learning HTML, CSS and JS by meself, part time. I'm also new to Github. So please don't freak out if you accidentally came across my repos!
-- I’m building very small web apps on my free time which I push here once in a while. I hope I get to free up more time for this. Code on!
-- I'm on CodePen too. [My Profile](https://codepen.io/scriptax)
+# Hi 👋, 
+## This is scriptax
+Constantly trying to learn web developement on both sides of frontend and backend.
+I'm learning frontend technologies these days, Especially React.js. I'm also building a couple of small projects right now. Looking forward to spending more time on programming, here on Github. It's like a goldmine here!
 
-<!---
-scriptax/scriptax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Frontend technologies I'm learning/working on
+
+<div>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
+  <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
+</div>
+
+I'm on CodePen too. [My Profile](https://codepen.io/scriptax)
