@@ -13,5 +13,11 @@ I'm learning frontend technologies these days, Especially React.js. I'm also bui
   <img src ="./frontend/react.svg" alt="react logo" width="4%" title='React'/>
 </div>
 
+### Tools
+
+<div>
+  <img src ="./tools/vscode-logo.png" alt="vscode logo" width="4%" title='HTML5'/>
+  <img src ="./tools/git-logo.svg" alt="git logo" width="4%" title='CSS3'/>
+</div>
 
 I'm on CodePen too. [My Profile](https://codepen.io/scriptax)
