@@ -17,7 +17,7 @@ I'm learning frontend technologies these days, Especially React.js. I'm also bui
 
 <div>
   <img src ="./tools/vscode-logo.png" alt="vscode logo" width="4%" title='HTML5'/>
-  <img src ="./tools/git-logo.svg" alt="git logo" width="10%" title='CSS3'/>
+  <img src ="./tools/git-logo.svg" alt="git logo" width="8%" title='CSS3'/>
 </div>
 
 I'm on CodePen too. [My Profile](https://codepen.io/scriptax)
