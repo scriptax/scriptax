@@ -11,7 +11,7 @@ I'm learning frontend technologies these days, Especially React.js. I'm also bui
   <img src ="./frontend/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
   <img src ="./frontend/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
   <img src ="./frontend/react.svg" alt="react logo" width="4%" title='React'/>
-  <img src ="./frontend/redux.svg" alt="redux logo" width="4%" title='React'/>
+  <img src ="./frontend/redux.svg" alt="redux logo" width="4%" title='Redux'/>
 </div>
 
 ### Tools
