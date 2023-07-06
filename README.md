@@ -1,7 +1,8 @@
-# Hi 👋, 
+# Hello there 👋😎
 ## This is scriptax
-Constantly trying to learn web developement on both sides of frontend and backend.
-I'm learning frontend technologies these days, Especially React.js. I'm also building a couple of small projects right now. Looking forward to spending more time on programming, here on Github. It's like a goldmine here!
+I'm a web developer who loves building webapps and websites. I started with frontend development and did a couple of projects. Now I'm trying to conquer the backend world as well to take my apps to a new level. I learn by building, so most of the projects you see here are originally made for learning. 
+
+"Mastering" a technology doesn't make much sense in software development if you ask me. These techs just keep evolving. So these are the things I'm always learning:
 
 ### Frontend Technologies
 
@@ -14,6 +15,14 @@ I'm learning frontend technologies these days, Especially React.js. I'm also bui
   <img src ="./frontend/typescript.svg" alt="TypeScript logo" width="4%" title='TypeScript'/>
   <img src ="./frontend/react.svg" alt="react logo" width="4%" title='React'/>
   <img src ="./frontend/redux.svg" alt="redux logo" width="4%" title='Redux'/>
+</div>
+
+### Backend Technologies (Been learning lately)
+
+<div>
+  <img src ="./backend/node.svg" alt="node js logo" width="4%" title='HTML5'/>
+  <img src ="./backend/express.svg" alt="express js logo" width="4%" title='CSS3'/>
+  <img src ="./backend/mongo.svg" alt="mongoDB" width="4%" title='SASS'/>
 </div>
 
 ### Tools
