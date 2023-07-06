@@ -2,9 +2,9 @@
 ## This is scriptax
 I'm a web developer who loves building webapps and websites. I started with frontend development and did a couple of projects. Now I'm trying to conquer the backend world as well to take my apps to a new level. I learn by building, so most of the projects you see here are originally made for learning. 
 
-"Mastering" a technology doesn't make much sense in software development if you ask me. These techs just keep evolving. So these are the things I'm always learning:
+"Mastering" a technology doesn't make much sense in software development if you ask me. These techs just keep evolving. So I'd be always "learning" these techs:
 
-### Frontend Technologies
+### Frontend Technologies 👉
 
 <div>
   <img src ="./frontend/html-5.png" alt="HTML5 logo" width="4%" title='HTML5'/>
@@ -17,7 +17,7 @@ I'm a web developer who loves building webapps and websites. I started with fron
   <img src ="./frontend/redux.svg" alt="redux logo" width="4%" title='Redux'/>
 </div>
 
-### Backend Technologies (Been learning lately)
+### Backend Technologies (Been learning lately) 👉
 
 <div>
   <img src ="./backend/node.svg" alt="node js logo" width="4%" title='Node.js'/>
@@ -25,7 +25,7 @@ I'm a web developer who loves building webapps and websites. I started with fron
   <img src ="./backend/mongo.svg" alt="mongoDB" width="4%" title='MongoDB'/>
 </div>
 
-### Tools
+### Tools 👉
 
 <div>
   <img src ="./tools/vscode-logo.png" alt="vscode logo" width="4%" title='HTML5'/>
