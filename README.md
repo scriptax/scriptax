@@ -2,7 +2,7 @@
 ## This is scriptax
 I'm a web developer who loves building webapps and websites. I started with frontend development and did a couple of projects. Now I'm trying to conquer the backend world as well to take my apps to a new level. I learn by building, so most of the projects you see here are originally made for learning. 
 
-"Mastering" a technology doesn't make much sense in software development if you ask me. These techs just keep evolving. So I'd be always "learning" these techs:
+"Mastering" a technology doesn't make much sense in software development if you ask me. These techs just keep evolving. So I'd be always "learning" these techs 😁:
 
 ### Frontend Technologies 👉
 
