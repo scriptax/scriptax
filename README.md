@@ -20,9 +20,9 @@ I'm a web developer who loves building webapps and websites. I started with fron
 ### Backend Technologies (Been learning lately)
 
 <div>
-  <img src ="./backend/node.svg" alt="node js logo" width="4%" title='HTML5'/>
-  <img src ="./backend/express.svg" alt="express js logo" width="4%" title='CSS3'/>
-  <img src ="./backend/mongo.svg" alt="mongoDB" width="4%" title='SASS'/>
+  <img src ="./backend/node.svg" alt="node js logo" width="4%" title='Node.js'/>
+  <img src ="./backend/express.svg" alt="express js logo" width="4%" title='Express.js'/>
+  <img src ="./backend/mongo.svg" alt="mongoDB" width="4%" title='MongoDB'/>
 </div>
 
 ### Tools
